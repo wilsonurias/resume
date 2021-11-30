@@ -33,6 +33,9 @@ section{
   width: 33%;
   height: 5rem;
   border: black 1px solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /******************************************
